@@ -1,0 +1,27 @@
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Statistics.resources
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\我的文档\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\YANG\to yang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\YANG\to yang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\YANG\to yang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\YANG\to yang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\YANG\to yang\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\YANG\to yang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\YANG\to yang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Statistics.resources
+F:\YANG\to yang\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\YANG\to yang\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\luyisi\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\luyisi\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\luyisi\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\obj\Debug\StatisticsApp.Statistics.resources
+C:\Users\luyisi\Desktop\LYS-WeiboUserMiningSys\StatisticsApp\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+程序具有自动切换授权token的功能，但是需要提前配置：
+1.申请微博应用（测试权限），微博应用的appkey和appsecrect放在AppID.txt文件中。
+2.将应用的redirect_uri设置为相同，https://api.weibo.com/oauth2/default.html
+3.在应用中添加测试用户，并将其添加到LoginUser.txt文件中，确保：LoginUser.txt中出现的每一个登录名和密码是每个应用的账户。

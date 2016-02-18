@@ -1,0 +1,15 @@
+--------
+D:\LYS-WeiboUserMiningSys\JYWebCrawlingCaptcha\bin\x64\Debug\MySNAP.exe.Err
+Mon Apr 28 09:19:15 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:634 MxVals:634 Type:TVec<class THashKeyDat<class TInt,struct TSnap::TCNMQMatrix::TCmtyDat> >'], file d:\lee实验\mysnap\snaplib\glib\ds.h, line 415
+--------
+--------
+D:\LYS-WeiboUserMiningSys\JYWebCrawlingCaptcha\bin\x64\Debug\MySNAP.exe.Err
+Mon Apr 28 09:19:50 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:634 MxVals:634 Type:TVec<class THashKeyDat<class TInt,struct TSnap::TCNMQMatrix::TCmtyDat> >'], file d:\lee实验\mysnap\snaplib\glib\ds.h, line 415
+--------
+--------
+D:\LYS-WeiboUserMiningSys\JYWebCrawlingCaptcha\bin\x64\Debug\MySNAP.exe.Err
+Mon Apr 28 09:20:02 2014
+Execution stopped: (0<=ValN)&&(ValN<Vals) [Reason:'Index:-1 Vals:634 MxVals:634 Type:TVec<class THashKeyDat<class TInt,struct TSnap::TCNMQMatrix::TCmtyDat> >'], file d:\lee实验\mysnap\snaplib\glib\ds.h, line 415
+--------

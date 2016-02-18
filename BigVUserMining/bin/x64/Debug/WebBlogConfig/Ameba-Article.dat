@@ -1,0 +1,19 @@
+#注意：每个网站抽取模板的标识（“-”前面的单词）必须为uri.Host.Trim()，将来存储为Hashtable的Key来检索响应抽取模板
+#博文来源
+Ameba-ArticleSource ￥ ameblo.jp
+#博文主题标签
+Ameba-ArticleTopic ￥ (?<=<span class="theme">テーマ：)[\s\S]+?(?=</a>)
+#博文标题：需要去除<>
+Ameba-ArticleTitle ￥ (?<=<h3 class="title">)[\s\S]+?(?=</a>)
+#博文内容
+Ameba-ArticleContent ￥ (?<=<div class="contents">)[\s\S]+?(?=<!--entryBottom-->)
+#博文作者  (?<=<div class="article-main-authors">)[\s\S]*?(?=</a>)
+Ameba-ArticleAuthor ￥ (?<=<li class="nickname">ニックネーム：)[\s\S]+?(?=</li>)
+#博文发布时间 
+Ameba-ArticlePublishTime ￥ (?<=<span class="date">)[\s\S]+?(?=</span>)
+#博文评论 
+Ameba-ArticleComment ￥ (?<=コメント)[\s\S]+?(?=季節のイベント)
+#博文Page关键词
+Ameba-ArticleKeywords ￥ (?<=<meta name="keywords" content=")[\s\S]*?(?=")
+#博文Page描述
+Ameba-ArticleDescription ￥ (?<=<meta name="description" content=")[\s\S]*?(?=")

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WbTracker", "WbTracker\WbTracker.csproj", "{C268D22C-C468-4633-8490-D71E5B529599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C268D22C-C468-4633-8490-D71E5B529599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C268D22C-C468-4633-8490-D71E5B529599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C268D22C-C468-4633-8490-D71E5B529599}.Debug|x64.ActiveCfg = Debug|x64
+		{C268D22C-C468-4633-8490-D71E5B529599}.Debug|x64.Build.0 = Debug|x64
+		{C268D22C-C468-4633-8490-D71E5B529599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C268D22C-C468-4633-8490-D71E5B529599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C268D22C-C468-4633-8490-D71E5B529599}.Release|x64.ActiveCfg = Release|x64
+		{C268D22C-C468-4633-8490-D71E5B529599}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

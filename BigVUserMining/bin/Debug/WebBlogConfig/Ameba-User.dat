@@ -1,0 +1,15 @@
+#注意：每个网站抽取模板的标识（“-”前面的单词）必须为uri.Host.Trim()，将来存储为Hashtable的Key来检索响应抽取模板
+#用户英文名
+Ameba-UserEnglishName ￥ (?<=<li class="nickname">ニックネーム：<a href="http://profile.ameba.jp/)[\s\S]+?(?=/)
+#用户日文昵称: <a href="http://profile.ameba.jp/natsuki-ikeda-0624/">池田夏希</a>
+Ameba-UserNickName ￥ (?<=<li class="nickname">ニックネーム：)[\s\S]+?(?=</li>)
+#用户性别
+Ameba-UserSex ￥ (?<=<li class="sex">性別：)[\s\S]+?(?=</li>)
+#出生日期
+Ameba-UserBirthDay ￥ (?<=<li class="birthDay">誕生日：)[\s\S]+?(?=</li>)
+#出生地
+Ameba-UserBirthPlace ￥ (?<=<li class="hometown">お住まいの地域：)[\s\S]+?(?=</li>)
+#血型
+Ameba-UserBloodType ￥ (?<=<li class="bloodType">血液型：)[\s\S]+?(?=</li>)
+#详细介绍Profile页
+Ameba-UserProfilePageUrl ￥ (?<=<li class="nickname">ニックネーム：<a href=")[\s\S]+?(?=")

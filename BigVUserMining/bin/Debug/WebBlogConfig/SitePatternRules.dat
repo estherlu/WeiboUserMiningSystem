@@ -1,0 +1,6 @@
+#
+#1¡¢official.ameba.jp Blog User Page Extract Template File
+http://ameblo.jp/[a-zA-Z0-9]{1,20} Ameba-User.dat
+# 2¡¢official.ameba.jp Blog Article Page Extract Template File
+(http://ameblo.jp/[\S\d]{1,20}/[\w]{1,15}-[\d]+?.html)|(http://blognews.ameba.jp/count\?newsId=[\d]{1,10}) Ameba-Article.dat
+#3¡¢ http://blognews.ameba.jp
